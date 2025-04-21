@@ -4,17 +4,25 @@ My ePortfolio showcases the knowledge and skills I have cultivated through my jo
 
 ### Table of Contents
 
-* &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Course Specifics and Portfolio Selections_](#course-specifics-and-portfolio-considerations "Course Specifics and Portfolio Considerations")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Looking to the Future_](#looking-to-the-future "Looking to the Future")<br/>
-* &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review_](#code-review-videos "Artifacts Code Review Videos Link")<br/>
-* &nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact One: Software Design and Engineering_](#software-design-and-engineering-artifact "Artifact for Software Design and Engineering")<br/>
-* &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Two: Algorithms and Data Structure_](#algorithms-and-data-structures-artifact "Artifact for Algorithms and Data Structure")<br/>
+* &nbsp;[Self-Assessment](#self-assessment "Self-Assessment")<br/>
+* &nbsp;[Refinement Plan and Code Review](#refinement-plan-and-code-review "Refinement Plan and Code Review")<br/>
+* &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
+* &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
 * &nbsp;[Databases](#databases "Databases")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Three: Databases_](#databases-artifact "Artifact for Databases")<br/><br/>### Table of Contents
 ---------
+### Self-Assessment
 
+
+### Refinement Plan and Code Review
+
+
+### Software Design and Engineering
+
+
+### Algorithms and Data Structure
+
+
+### Databases
+
+---------
 
