@@ -1,5 +1,3 @@
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-purple.svg?style=for-the-badge&logo=gmail)](mailto:laurenroselindhurst@gmail.com "I look forward to hearing from you!")&nbsp;&nbsp;<a id="top" href="https://lo-rose.github.io/eportfolio/awards" title="Academic Achievements" target="_blank"><img src="https://img.shields.io/badge/Awards-Lauren_Lindhurst-hotpink.svg?style=for-the-badge&logo=lit" />&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/lo-rose/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Commit")
-
 ## Welcome
 
 My ePortfolio showcases the knowledge and skills I have cultivated through my journey in Computer Science at Southern New Hampshire University. It represents my achievements and ongoing success in the program, highlighted by my inclusion on the President’s List and honor roll. Carefully crafted with a professional touch, my ePortfolio emphasizes both visual and technical written elements of my chosen artifacts, reflecting my capabilities and potential in a clear, logically sound, and professional manner tailored for a specific technical audience.
