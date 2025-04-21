@@ -35,6 +35,8 @@ Security stands as a fundamental pillar of computer science, and it plays a vita
 ---------
 ### Code Review
 Click this link to view my [Code Review](https://youtu.be/FF-8Sm6r8ZA).
+
+---------
 ### Software Design and Engineering
 #### Briefly describe the artifact
 I selected the artifact from CS 330, which focused on graphics and visualization. This project allowed me to immerse myself in the intricacies of manipulating a 3D scene by integrating diverse shapes, vibrant textures, realistic materials, and dynamic lighting to create an authentic representation of real-world objects. I found great satisfaction in bringing my vision to life through this project and am eager to explore additional enhancements that could further elevate its visual impact and overall experience.
