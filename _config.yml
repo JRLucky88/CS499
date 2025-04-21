@@ -1,3 +1,4 @@
-theme: minima
-title: CS499 Capstone
-author: Jillian Ortiz
+theme: jekyll-theme-architect
+title: Jillian Ortiz's ePortfolio
+description: SNHU CS499 - Computer Science Capstone
+show_downloads: false
