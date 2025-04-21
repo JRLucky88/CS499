@@ -1,11 +1,10 @@
-## Welcome
+## Jillian Ortiz ePortfolio
 
 My ePortfolio showcases the knowledge and skills I have cultivated through my journey in Computer Science at Southern New Hampshire University. It represents my achievements and ongoing success in the program, highlighted by my inclusion on the President’s List and honor roll. Carefully crafted with a professional touch, my ePortfolio emphasizes both visual and technical written elements of my chosen artifacts, reflecting my capabilities and potential in a clear, logically sound, and professional manner tailored for a specific technical audience.
 
 ### Table of Contents
 
 * &nbsp;[Self-Assessment](#self-assessment "Self-Assessment")<br/>
-* &nbsp;[Refinement Plan and Code Review](#refinement-plan-and-code-review "Refinement Plan and Code Review")<br/>
 * &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
 * &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
 * &nbsp;[Databases](#databases "Databases")<br/>
@@ -31,9 +30,7 @@ Throughout my educational journey, I have engaged deeply with database managemen
 #### Security
 Security stands as a fundamental pillar of computer science, and it plays a vital role in every aspect of coding. Throughout my education, I immersed myself in the intricacies of security and the myriad vulnerabilities that can arise. While I took several courses on the topic, the most impactful was CS-305 Software Security. This course equipped me with the essential skills to develop robust, secure code while adhering to established security testing protocols. I gained in-depth knowledge of encryption and decryption techniques and became proficient in using various tools to identify vulnerabilities. My education has instilled in me a strong commitment to building secure systems that safeguard against potential threats.
 
-### Refinement Plan and Code Review
-
-
+---------
 ### Software Design and Engineering
 #### Briefly describe the artifact
 I selected the artifact from CS 330, which focused on graphics and visualization. This project allowed me to immerse myself in the intricacies of manipulating a 3D scene by integrating diverse shapes, vibrant textures, realistic materials, and dynamic lighting to create an authentic representation of real-world objects. I found great satisfaction in bringing my vision to life through this project and am eager to explore additional enhancements that could further elevate its visual impact and overall experience.
