@@ -9,6 +9,7 @@ My ePortfolio showcases the knowledge and skills I have cultivated through my jo
 * &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
 * &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
 * &nbsp;[Databases](#databases "Databases")<br/>
+
 ---------
 ### Self-Assessment
 Throughout my journey at SNHU, I have acquired and honed a myriad of skills that will undoubtedly empower my career. Each class presented unique challenges and enriching experiences, significantly contributing to my growth. Among these were courses in computer graphics, data structures with pie chart displays, and MongoDB, all of which played a crucial role in my development. I successfully achieved all five course outcomes. 
