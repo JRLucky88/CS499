@@ -43,6 +43,11 @@ I selected the artifact from CS 330, which focused on graphics and visualization
 #### Enhancements 
 Prior to the recent enhancements, the environment was limited to just three light sources, resulting in several textures failing to render correctly on their corresponding objects. To address these issues, I thoroughly repaired the underlying code and reworked the textures to significantly improve the manipulation of light sources. This included adjustments to both diffuse and specular lighting, which effectively highlighted the distinctive effects of these parameters on various materials. Additionally, I introduced a fourth light source, further enriching the overall atmosphere and depth of the scene.
 
+<div style="text-align: center;">
+    <img src="Images/EnhancementOne.png" width="520px" title="Enhancement One" />
+    <p><em>Figure 1 - CS-330 Project: Graphics and Visualization</em></p>
+</div>
+
 ---------
 
 ### Algorithms and Data Structure
