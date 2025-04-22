@@ -5,6 +5,7 @@ My ePortfolio showcases the knowledge and skills I have cultivated through my jo
 ### Table of Contents
 
 * &nbsp;[Self-Assessment](#self-assessment "Self-Assessment")<br/>
+* &nbsp;[Academic Awards](#academic-awards "Academic Awards")<br/>
 * &nbsp;[Code Review](#code-review "Code Review")<br/>
 * &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
 * &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
@@ -33,6 +34,24 @@ Throughout my educational journey, I have engaged deeply with database managemen
 Security stands as a fundamental pillar of computer science, and it plays a vital role in every aspect of coding. Throughout my education, I immersed myself in the intricacies of security and the myriad vulnerabilities that can arise. While I took several courses on the topic, the most impactful was CS-305 Software Security. This course equipped me with the essential skills to develop robust, secure code while adhering to established security testing protocols. I gained in-depth knowledge of encryption and decryption techniques and became proficient in using various tools to identify vulnerabilities. My education has instilled in me a strong commitment to building secure systems that safeguard against potential threats.
 
 ---------
+### Academic Awards
+<div style="text-align: center;">
+    <img src="Images/PresidentsList2023.png" width="520px" title="Presidents List" />
+    <p><em>Figure 1 - Presidents List 2023</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="Images/DeansListSummer2024.png" width="520px" title="Deans List One" />
+    <p><em>Figure 2 - Deans List Summer 2024</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="Images/DeansListFalls2024.png" width="520px" title="Deans List Two" />
+    <p><em>Figure 3 - Deans List Fall 2024</em></p>
+</div>
+
+---------
+
 ### Code Review
 Click this link to view my [Code Review](https://youtu.be/FF-8Sm6r8ZA).
 
@@ -45,7 +64,7 @@ Prior to the recent enhancements, the environment was limited to just three ligh
 
 <div style="text-align: center;">
     <img src="Images/EnhancementOne.png" width="520px" title="Enhancement One" />
-    <p><em>Figure 1 - CS-330 Project: Graphics and Visualization</em></p>
+    <p><em>Figure 4 - CS-330 Project: Graphics and Visualization</em></p>
 </div>
 
 ---------
@@ -59,7 +78,7 @@ This improvement not only demonstrates our commitment to responsible breed manag
 
 <div style="text-align: center;">
     <img src="Images/EnhancementTwo.png" width="520px" title="Enhancement Two" />
-    <p><em>Figure 2 - CS-340 Project: Client/Server Development</em></p>
+    <p><em>Figure 5 - CS-340 Project: Client/Server Development</em></p>
 </div>
 
 ---------
@@ -71,12 +90,12 @@ Throughout this journey, I successfully created a database from a CSV file and t
 
 <div style="text-align: center;">
     <img src="Images/EnhancementThree.1.png" width="520px" title="Enhancement Three.1" />
-    <p><em>Figure3 - CS-340 Project: Client/Server Development</em></p>
+    <p><em>Figure6 - CS-340 Project: Client/Server Development</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="Images/EnhancementThree.2.png" width="520px" title="Enhancement Three.2" />
-    <p><em>Figure 4 - CS-340 Project: Client/Server Development</em></p>
+    <p><em>Figure 7 - CS-340 Project: Client/Server Development</em></p>
 </div>
 
 
