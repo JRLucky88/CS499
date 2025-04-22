@@ -69,5 +69,16 @@ The artifact I selected for the database category is an exemplary project from m
 #### Enhancements 
 Throughout this journey, I successfully created a database from a CSV file and transformed it into a JSON database, executing complex queries and updating data with confidence. I view this experience as a significant achievement, particularly since I had never created a database from scratch on my own before. In previous classes, databases were provided, so the process of building a complete and functional database using the appropriate software marks a major milestone in my personal and professional growth.
 
+<div style="text-align: center;">
+    <img src="Images/EnhancementThree.1.png" width="520px" title="Enhancement Three.1" />
+    <p><em>Figure3 - CS-340 Project: Client/Server Development</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="Images/EnhancementThree.2.png" width="520px" title="Enhancement Three.2" />
+    <p><em>Figure 4 - CS-340 Project: Client/Server Development</em></p>
+</div>
+
+
 ---------
 
