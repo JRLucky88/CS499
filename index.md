@@ -57,6 +57,11 @@ The artifact I chose for this category is a project from my CS-340 course at SNH
 Imagine easily identifying the best candidates for breeding programs to enhance biodiversity. Previously, our pie chart's limited dropdown menu restricted our insights. By applying HTML coding skills, I expanded these options to include vital factors like age and sex, streamlining the selection process. 
 This improvement not only demonstrates our commitment to responsible breed management but also positions us as leaders in animal conservation. Let’s embrace these enhancements for a better future for our wildlife!
 
+<div style="text-align: center;">
+    <img src="Images/EnhancementTwo.png" width="520px" title="Enhancement Two" />
+    <p><em>Figure 2 - CS-340 Project: Client/Server Development</em></p>
+</div>
+
 ---------
 ### Databases
 #### Briefly describe the artifact
