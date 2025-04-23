@@ -41,12 +41,12 @@ Security stands as a fundamental pillar of computer science, and it plays a vita
 </div>
 
 <div style="text-align: center;">
-    <img src="Images/DeansListSummer2024.png" width="520px" title="Deans List One" />
+    <img src="Images/Dean'sListSummer2024.png" width="520px" title="Deans List One" />
     <p><em>Figure 2 - Deans List Summer 2024</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="Images/DeansListFall2024.png" width="520px" title="Deans List Two" />
+    <img src="Images/Dean'sListFall2024.png" width="520px" title="Deans List Two" />
     <p><em>Figure 3 - Deans List Fall 2024</em></p>
 </div>
 
