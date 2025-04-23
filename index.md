@@ -77,7 +77,7 @@ Imagine easily identifying the best candidates for breeding programs to enhance 
 This improvement not only demonstrates our commitment to responsible breed management but also positions us as leaders in animal conservation. Let’s embrace these enhancements for a better future for our wildlife!
 
 <div style="text-align: center;">
-    <img src="Images/EnhancementTwo.png" width="520px" title="Enhancement Two" />
+    <img src="Images/EnhancementTwo..png" width="520px" title="Enhancement Two" />
     <p><em>Figure 5 - CS-340 Project: Client/Server Development</em></p>
 </div>
 
