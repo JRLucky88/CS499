@@ -45,6 +45,20 @@ With a clear focus on designing and evaluating computing solutions to address co
 
 I eagerly anticipate opportunities that allow me to learn and grow. Driven by a passion for completing challenging work, I see seeking help not as a weakness but as a chance to enhance my knowledge through collaboration with experienced colleagues and great mentors. I am excited to participate in a culture that encourages innovative solutions for the built environment, helping both clients and internal teams bring their visions to life with outstanding results. As a highly dependable and diligent professional, my strong organizational skills and enthusiasm for technology empower me to embrace new challenges and swiftly acquire the necessary skills. I am dedicated to excelling and continuously pushing my limits.
 
+| **Hard Skills** | **Soft Skills** |
+|:-----------:|:-----------:|
+| Computer and Technology Skills | Organizational |
+| Data Analysis | Attention to Detail |
+| Data Visualization | Critical Thinking |
+| Programming | Problem Solving |
+| Software Development | Collaboration |
+| Web Development | HTML/CSS/JS/Markdown |
+| Technical Writing| JAVA |
+| Security Mindset | Python |
+| Mobile Development | C++ |
+
+<br/>
+
 ---------
 ### **Academic Awards**
 <div style="text-align: center;">
