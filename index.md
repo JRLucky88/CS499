@@ -90,7 +90,7 @@ Throughout this journey, I successfully created a database from a CSV file and t
 
 <div style="text-align: center;">
     <img src="Images/EnhancementThree.1.png" width="520px" title="Enhancement Three.1" />
-    <p><em>Figure6 - CS-340 Project: Client/Server Development</em></p>
+    <p><em>Figure 6 - CS-340 Project: Client/Server Development</em></p>
 </div>
 
 <div style="text-align: center;">
