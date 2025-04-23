@@ -20,7 +20,7 @@ Throughout my journey at SNHU, I have acquired and honed a myriad of skills that
 * I also achieved the outcome related to producing professional-quality oral, written, and visual communications that are coherent, technically sound, and tailored to diverse audiences.
 * In addition, I developed a security mindset, anticipating adversarial exploits in software architectures to identify vulnerabilities, mitigate design flaws, and ensure the privacy and security of data and resources, employing best practices of secure coding across all my artifacts.
 * Finally, I embraced strategies that foster collaborative environments, enabling diverse audiences to contribute to organizational decision-making in computer science, as demonstrated by my work with GitHub repositories and pages.
-* 
+
 ### _Team Environments_
 Throughout my educational journey, I have valued both independence and collaboration, which have significantly shaped my growth. A pivotal experience at SNHU was the course CS-250 Software Development Lifecycle, where I explored the intricacies of the SDLC through the lenses of project managers, developers, and testers.
 The group projects we undertook truly transformed my understanding. Immersed in agile methodologies, each of us played distinct roles, deepening our teamwork and adaptability. Utilizing tools like Azure not only enhanced our technical skills but also connected us to the realities of software development.
