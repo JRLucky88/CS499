@@ -5,6 +5,7 @@ My ePortfolio showcases the knowledge and skills I have cultivated through my jo
 ### **Table of Contents**
 
 * &nbsp;[Self-Assessment](#self-assessment "Self-Assessment")<br/>
+* &nbsp;[Preparing For The Future](#preparing-for-the-future "Preparing For The Future")<br/>
 * &nbsp;[Academic Awards](#academic-awards "Academic Awards")<br/>
 * &nbsp;[Code Review](#code-review "Code Review")<br/>
 * &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
@@ -33,6 +34,16 @@ Throughout my educational journey, I have gained significant insights into data 
 Throughout my educational journey, I have engaged deeply with database management through courses in SQL and MongoDB. A standout experience was in CS-340 Client/Server Development, where I actively applied fundamental database concepts using CRUD (create, read, update, delete) operations to manipulate databases effectively. Additionally, in CS-465 Full Stack Development, I mastered the art of building a full stack application, seamlessly integrating databases with robust coding practices. These experiences have not only honed my technical skills but also equipped me to develop sophisticated applications with a strong foundation in database principles.
 ### _Security_
 Security stands as a fundamental pillar of computer science, and it plays a vital role in every aspect of coding. Throughout my education, I immersed myself in the intricacies of security and the myriad vulnerabilities that can arise. While I took several courses on the topic, the most impactful was CS-305 Software Security. This course equipped me with the essential skills to develop robust, secure code while adhering to established security testing protocols. I gained in-depth knowledge of encryption and decryption techniques and became proficient in using various tools to identify vulnerabilities. My education has instilled in me a strong commitment to building secure systems that safeguard against potential threats.
+
+---------
+
+### **Preparing For The Future**
+The Computer Science program has been a transformative journey, shaping my professional aspirations and equipping me to forge a meaningful and impactful career in the field. My proudest achievement is the development of my ePortfolio, a testament to my dedication to standing out among my peers in computer science.
+Through my ePortfolio, I have showcased my ability to employ innovative and reliable techniques. I’ve created computer solutions that not only deliver value but also meet industry-specific goals. This is exemplified by the functionalities I've developed, which allow CSV data files to be imported into MongoDB, along with the integration of essential dependencies such as the Python PyMongo driver, various Python libraries, the Dash framework, and a robust CRUD module for data manipulation.
+
+With a clear focus on designing and evaluating computing solutions to address complex problems, I’ve applied algorithmic principles and adhered to industry standards, carefully balancing design trade-offs. I’ve embraced the challenge of engineering relationships and functionality among different classes and methods, utilizing arguments, parameters, and variables in scope through JAVA programming. All my work reflects a strong commitment to a security mindset, anticipating potential exploits, minimizing design flaws, and safeguarding the privacy and security of data and resources.
+
+I eagerly anticipate opportunities that allow me to learn and grow. Driven by a passion for completing challenging work, I see seeking help not as a weakness but as a chance to enhance my knowledge through collaboration with experienced colleagues and great mentors. I am excited to participate in a culture that encourages innovative solutions for the built environment, helping both clients and internal teams bring their visions to life with outstanding results. As a highly dependable and diligent professional, my strong organizational skills and enthusiasm for technology empower me to embrace new challenges and swiftly acquire the necessary skills. I am dedicated to excelling and continuously pushing my limits.
 
 ---------
 ### **Academic Awards**
